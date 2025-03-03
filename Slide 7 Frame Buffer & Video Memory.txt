@@ -1,0 +1,22 @@
+Slide 7: Frame Buffer & Video Memory
+Frame Buffer: Holds the current image on the screen.
+Video Memory Calculation:
+Memory (MB) = (X-resolution * Y-resolution * Bits per pixel) / (8 * 1024 * 1024)
+Slide 8: Display Technologies
+Raster Scan Display: Pixels are drawn left-to-right, top-to-bottom.
+Random Scan Display: Directly targets specific points, used for sharper vector images.
+Slide 9: Flat Panel Displays
+LCD (Liquid Crystal Display): Thin, energy-efficient, and high resolution.
+Plasma Display: Uses ionized gas to create vivid colors, great for large screens but expensive.
+Slide 10: 3D Displays
+Stereoscopic & VR: Creates 3D visuals for immersive experiences in virtual reality and simulations.
+Slide 11: Image Scanners
+Drum Scanner: High-end, professional quality scanning.
+Flatbed Scanner: Versatile, general-purpose scanner.
+Handheld Scanner: Portable, used for quick document scanning.
+Slide 12: Summary
+Empowers Creativity: Used in design, entertainment, and interactive media.
+Improves Efficiency: Essential in industries like healthcare, science, and education.
+Future Innovation: Driving AR/VR advancements and shaping interactive technologies.
+Slide 13: Thank You!
+Questions?
